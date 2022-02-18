@@ -1,0 +1,7 @@
+Trial,h10,h110,θ calculated,atrend,aavg
+Units,Centimeters,Centimeters,Degrees,meters/sec2,meters/sec2
+3 Degree Run,2.9,11.8,5.1,0.8603,0.8273
+5 Degree Run,3.3,14.6,6.5,1.119,1.083
+8 Degree Run,3.4,15.6,7,1.128,1.1
+10 Degree Run,3.8,19.6,9.1,1.52,1.476
+12 Degree Run,4,27.1,13.4,2.261,2.131
