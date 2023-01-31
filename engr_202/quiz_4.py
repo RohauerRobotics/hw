@@ -21,8 +21,8 @@ def b_velocity(t):
     theta = s/260
     # print("Angle: ", np.degrees(theta))
     # x = 260*np.sin(theta) + 260*np.cos(np.radians(30)) - 260
-    x = 260*np.sin(theta) 
-    y = 260*np.cos(theta)
+    x = ((72*10**3)/3600 + 2*t)*np.sin(theta)
+    y = ((72*10**3)/3600 + 2*t)*np.cos(theta)
     return [x, y]
 
 def b_position(t):
